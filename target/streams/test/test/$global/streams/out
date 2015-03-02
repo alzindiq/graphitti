@@ -1,0 +1,3 @@
+[debug] Running TaskDef(com.hp.hpl.graphitti.loaders.GraphWrongLoadingTest, org.scalatest.tools.Framework$$anon$1@166f882a, false, [SuiteSelector])
+[debug] Running TaskDef(com.hp.hpl.graphitti.loaders.GraphLoadingTest, org.scalatest.tools.Framework$$anon$1@166f882a, false, [SuiteSelector])
+[debug] Running TaskDef(com.hp.hpl.graphitti.loaders.GraphMovieLoaderTest, org.scalatest.tools.Framework$$anon$1@166f882a, false, [SuiteSelector])

@@ -1,0 +1,15 @@
+[info] GraphWrongLoadingTest:
+[info] GraphLoader
+[info] - should recover from failure derived from parsing crappy data *** FAILED ***
+[info]   java.lang.IllegalArgumentException: db\retail2Go\index does not exist
+[info]   at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:1637)
+[info]   at org.apache.commons.io.FileUtils.deleteDirectory(FileUtils.java:1535)
+[info]   at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2270)
+[info]   at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:1653)
+[info]   at com.hp.hpl.graphitti.loaders.GraphWrongLoadingTest$$anonfun$2.apply$mcV$sp(GremlinTest.scala:165)
+[info]   at com.hp.hpl.graphitti.loaders.GraphWrongLoadingTest$$anonfun$2.apply(GremlinTest.scala:160)
+[info]   at com.hp.hpl.graphitti.loaders.GraphWrongLoadingTest$$anonfun$2.apply(GremlinTest.scala:160)
+[info]   at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)
+[info]   at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+[info]   at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+[info]   ...

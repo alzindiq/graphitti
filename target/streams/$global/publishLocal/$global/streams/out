@@ -1,0 +1,51 @@
+[debug] local do not support transaction. ivy pattern does not use revision as a directory
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\poms\graphitti_2.10.pom already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\poms\graphitti_2.10.pom
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\poms\graphitti_2.10.pom.sha1 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\poms\graphitti_2.10.pom.sha1
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\poms\graphitti_2.10.pom.md5 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\poms\graphitti_2.10.pom.md5
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[info] 	published graphitti_2.10 to C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\poms\graphitti_2.10.pom
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\jars\graphitti_2.10.jar already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\jars\graphitti_2.10.jar
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\jars\graphitti_2.10.jar.sha1 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\jars\graphitti_2.10.jar.sha1
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\jars\graphitti_2.10.jar.md5 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\jars\graphitti_2.10.jar.md5
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[info] 	published graphitti_2.10 to C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\jars\graphitti_2.10.jar
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\srcs\graphitti_2.10-sources.jar already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\srcs\graphitti_2.10-sources.jar
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\srcs\graphitti_2.10-sources.jar.sha1 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\srcs\graphitti_2.10-sources.jar.sha1
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\srcs\graphitti_2.10-sources.jar.md5 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\srcs\graphitti_2.10-sources.jar.md5
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[info] 	published graphitti_2.10 to C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\srcs\graphitti_2.10-sources.jar
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\docs\graphitti_2.10-javadoc.jar already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\docs\graphitti_2.10-javadoc.jar
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\docs\graphitti_2.10-javadoc.jar.sha1 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\docs\graphitti_2.10-javadoc.jar.sha1
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\docs\graphitti_2.10-javadoc.jar.md5 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\docs\graphitti_2.10-javadoc.jar.md5
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[info] 	published graphitti_2.10 to C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\docs\graphitti_2.10-javadoc.jar
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\ivys\ivy.xml already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\ivys\ivy.xml
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\ivys\ivy.xml.sha1 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\ivys\ivy.xml.sha1
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[debug] C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\ivys\ivy.xml.md5 already exists, nothing done
+[warn] Attempting to overwrite C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\ivys\ivy.xml.md5
+[warn] 	This usage is deprecated and will be removed in sbt 1.0.
+[info] 	published ivy to C:\Users\vaquerog\.ivy2\local\com.hp.hpl\graphitti_2.10\0.1\ivys\ivy.xml

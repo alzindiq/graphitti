@@ -1,0 +1,19 @@
+[info] Packaging C:\Users\vaquerog\IdeaProjects\graphitti\target\scala-2.10\graphitti_2.10-0.1-sources.jar ...
+[debug] Input file mappings:
+[debug] 	com\hp\hpl\graphitti\loaders\MovieLensLoader.scala
+[debug] 	  C:\Users\vaquerog\IdeaProjects\graphitti\src\main\scala\com\hp\hpl\graphitti\loaders\MovieLensLoader.scala
+[debug] 	com\hp\hpl\graphitti\loaders\GraphXSVLoader.scala
+[debug] 	  C:\Users\vaquerog\IdeaProjects\graphitti\src\main\scala\com\hp\hpl\graphitti\loaders\GraphXSVLoader.scala
+[debug] 	sample.config
+[debug] 	  C:\Users\vaquerog\IdeaProjects\graphitti\src\main\resources\sample.config
+[debug] 	log4j.properties
+[debug] 	  C:\Users\vaquerog\IdeaProjects\graphitti\src\main\resources\log4j.properties
+[debug] 	com\hp\hpl\graphitti\loaders\Retail2GoLoader.scala
+[debug] 	  C:\Users\vaquerog\IdeaProjects\graphitti\src\main\scala\com\hp\hpl\graphitti\loaders\Retail2GoLoader.scala
+[debug] 	com\hp\hpl\graphitti\recommender\GraphRecommender.scala
+[debug] 	  C:\Users\vaquerog\IdeaProjects\graphitti\src\main\scala\com\hp\hpl\graphitti\recommender\GraphRecommender.scala
+[debug] 	com\hp\hpl\graphitti\loaders\GraphittiEdge.scala
+[debug] 	  C:\Users\vaquerog\IdeaProjects\graphitti\src\main\scala\com\hp\hpl\graphitti\loaders\GraphittiEdge.scala
+[debug] 	com\hp\hpl\graphitti\loaders\GraphittiVertex.scala
+[debug] 	  C:\Users\vaquerog\IdeaProjects\graphitti\src\main\scala\com\hp\hpl\graphitti\loaders\GraphittiVertex.scala
+[info] Done packaging.

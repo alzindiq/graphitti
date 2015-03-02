@@ -1,0 +1,4 @@
+[info] GraphMovieLoaderTest:
+[info] GraphLoader
+[info] - should load data set *** FAILED ***
+[info]   9944 was not equal to 28 (GremlinTest.scala:58)

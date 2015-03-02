@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.jcabi:jcabi-log:0.14:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.jcabi/jcabi-log/jars/jcabi-log-0.14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.jcabi/jcabi-log/docs/jcabi-log-0.14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.jcabi/jcabi-log/srcs/jcabi-log-0.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.tinkerpop:neo4j-gremlin:3.0.0.M6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.tinkerpop/neo4j-gremlin/jars/neo4j-gremlin-3.0.0.M6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.tinkerpop/neo4j-gremlin/docs/neo4j-gremlin-3.0.0.M6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.tinkerpop/neo4j-gremlin/srcs/neo4j-gremlin-3.0.0.M6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,4 @@
+[warn] Skipped generating '<exclusion/>' for com.sun.jdmk#*. Dependency exclusion should have both 'org' and 'module' to comply with Maven POM's schema.
+[warn] Skipped generating '<exclusion/>' for com.sun.jmx#*. Dependency exclusion should have both 'org' and 'module' to comply with Maven POM's schema.
+[warn] Skipped generating '<exclusion/>' for javax.jms#*. Dependency exclusion should have both 'org' and 'module' to comply with Maven POM's schema.
+[info] Wrote C:\Users\vaquerog\IdeaProjects\graphitti\target\scala-2.10\graphitti_2.10-0.1.pom

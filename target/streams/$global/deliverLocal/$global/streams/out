@@ -1,0 +1,4 @@
+[info] :: delivering :: com.hp.hpl#graphitti_2.10;0.1 :: 0.1 :: release :: Sat Feb 21 08:26:47 GMT 2015
+[debug] 	options = status=release pubdate=Sat Feb 21 08:26:47 GMT 2015 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null
+[info] 	delivering ivy file to C:\Users\vaquerog\IdeaProjects\graphitti\target\scala-2.10\ivy-0.1.xml
+[debug] 	deliver done (27ms)
