@@ -1,4 +1,4 @@
-package com.hp.hpl.graphitti.recommender
+package com.alzindiq.graphitti.recommender
 
 import com.tinkerpop.gremlin.neo4j.structure.Neo4jGraph
 import com.tinkerpop.gremlin.scala.{ScalaVertex,ScalaGraph}

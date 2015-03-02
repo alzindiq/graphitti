@@ -1,8 +1,7 @@
-package com.hp.hpl.graphitti.loaders
+package com.alzindiq.graphitti.loaders
 
 import java.io.File
-
-import com.hp.hpl.graphitti.recommender.MovieLensGraphRecommender
+import com.alzindiq.graphitti.recommender.MovieLensGraphRecommender
 import com.tinkerpop.gremlin.scala.GremlinScala
 import com.tinkerpop.gremlin.structure.Graph
 import org.apache.log4j.Logger

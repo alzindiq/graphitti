@@ -1,9 +1,8 @@
-package com.hp.hpl.graphitti.loaders
+package com.alzindiq.graphitti.loaders
 
 import java.io.File
 import java.nio.file.{Files, Paths}
-
-import com.hp.hpl.graphitti.recommender.MovieLensGraphRecommender
+import com.alzindiq.graphitti.recommender.MovieLensGraphRecommender
 import com.tinkerpop.gremlin.neo4j.structure.Neo4jGraph
 import com.tinkerpop.gremlin.scala.GremlinScala
 import com.tinkerpop.gremlin.structure.{Edge, Vertex}

@@ -1,4 +1,4 @@
-package com.hp.hpl.graphitti.loaders
+package com.alzindiq.graphitti.loaders
 
 import java.io.File
 

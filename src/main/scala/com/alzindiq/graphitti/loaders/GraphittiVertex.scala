@@ -1,4 +1,4 @@
-package com.hp.hpl.graphitti.loaders
+package com.alzindiq.graphitti.loaders
 
 trait GraphittiVertex  {
   def properties : Option[Map[String, Any]]
